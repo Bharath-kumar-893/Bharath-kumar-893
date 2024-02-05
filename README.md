@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bharath-kumar-893
-- 👀 I’m interested in Data Analyst
+- 👀 I’m interested in Data Analyst,junior flutter developer and web development
 - 🌱 I’m currently learning Information technology 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source projects related to my interests
 - 📫 How to reach me bharathkumarn892003@gmail.com
 
 <!---
